@@ -395,6 +395,12 @@
                      <br />
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/thatspiyush08">
+                    <sub><b>Piyush Narula</b></sub>
+                    <br />
+                </a> 
+            </td>
         </tr>
         <tr>
             <td align="center">
@@ -411,6 +417,7 @@
             </td>
             </td>
         </tr>
+        
         <tr>
             <td align="center">
                 <a href="https://github.com/virejdasani">
